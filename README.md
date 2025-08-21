@@ -1,5 +1,5 @@
-# Hi! I'm Carl Joseph Samson aka  Carl / Sam
-<img width="672" height="492" alt="image" src="https://github.com/user-attachments/assets/4cf90400-255f-493c-b202-12c47bf01a6d" />
+# Hi! I'm Carl Joseph Samson! aka  Carl / Sam
+<img width="1179" height="786" alt="image" src="https://github.com/user-attachments/assets/c0f6dd99-6b1e-4593-8cab-70c03f59aefc" />
 
 ## About Me
 - I'm currently a 4th year BSIT student in MSU-IIT. I lived in Dalipuga, Iligan City, and the eldest of the family.
@@ -14,15 +14,14 @@
 
 ## Featured Projects
 -  **Barangay Resident & Officer Profiling System**  
-  One of the latest projectA community management system with resident profiles, officer accounts, analytics, and clearance generation.  
+  A community management system with resident profiles, officer accounts, analytics, and clearance generation.
+<img width="1907" height="940" alt="image" src="https://github.com/user-attachments/assets/9a4c49a2-e3f5-4cfd-83ff-e5a99dcfc935" />
 
-- 💸 **MoneyMate / MoneyMigo**  
-  A student finance app for expense tracking, budget analysis, and smart deals with location-based store suggestions.  
 
 ## 📫 Connect With Me
-- GitHub: [github.com/your-username](https://github.com/your-username)  
-- Email: your.email@example.com  
-
+- GitHub: https://github.com/carlsamson101 
+- Facebook: https://www.facebook.com/CarlSamson101
+- G-mail: carljosephsamson@gmail.com
+- Instagram: https://www.instagram.com/sam_aps12/
 ---
 
-✨ *Always learning, always building.*  
